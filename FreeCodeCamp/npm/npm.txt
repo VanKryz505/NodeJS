@@ -1,0 +1,12 @@
+Es el archivo de software mas grande del mundo que contien paquetes que puedes instalar y usar con Node.js
+Es este apartado del curso aprenderemos a usar los diferentes tipos de paquetes que podemos instalar en nuestros proyectos de NodeJs
+
+paquete
+es un directios que esta descrito por un package.json
+
+node_modules
+se encuentran los modulos o paquetes 
+
+dependencia
+Es un paquete que necesita otro paquete para funcionar.
+
